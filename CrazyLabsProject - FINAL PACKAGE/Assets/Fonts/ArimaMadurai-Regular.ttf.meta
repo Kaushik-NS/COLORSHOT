@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 6cfbf5c8723182641bbc350d2d409ef7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Arima Madurai
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c66308c4a091d5145b47a40fe7179da2, type: 3}
+  - {fileID: 12800000, guid: 294bdd73d8c18c74aa72db6177f48327, type: 3}
+  - {fileID: 12800000, guid: 63dee457864693444b89d759c0d0f4b8, type: 3}
+  - {fileID: 12800000, guid: e1803911b1adc714d9c0b3a190d62ca8, type: 3}
+  - {fileID: 12800000, guid: 30aa0921b24988343a64f062e01b7c8e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
